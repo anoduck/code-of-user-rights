@@ -1,20 +1,28 @@
 Code of Misconduct
 ==================
 
+The Code of Misconduct is a set of user rights, the developer and user acknowledge, grant, and bind themselves to.
+
+Preface
+-------
+
+This document is still under development, it should in now way, shape or, form be distributed in it's current state.
+
 Intro
 -----
 
 The Code of Misconduct is a response to a set of characteristics or traits that represent contractual obligations/mandates
 found within certain "Code of Conduct" (i.e. COC) agreements.
 They are:
-    - Extension of the COC to include common end users, rather than solely binding contributors
-    - Inclusion of political idealology.
-    - Wording or phrasing considered to be politically exclusionary. 
-    - Threats of public shaming, doxing, ostrasizing, and/or other forms of harassment.
-    - Obligations/Mandates that result in surrending or compromising an inalienable human right.
-    - Attempts to supress freedom of expression, speech and discourse.
+* Extension of the COC to include common end users, rather than solely binding contributors
+* Inclusion of political idealology.
+* Wording or phrasing considered to be politically exclusionary.
+* Threats of public shaming, doxing, ostrasizing, and/or other forms of harassment.
+* Obligations/Mandates that result in surrending or compromising an inalienable human right.
+* Attempts to supress freedom of expression, speech and discourse.
 
-The Code of Misconduct is a set of user rights, the developer and user acknowledge, grant, and bind themselves to.
+Preliminary History
+--------------------
 
 The Code of Conduct has strayed far from its original intended purpose and humble
 origin. Historically the code of conduct applied only to development team members, or contributors. It
