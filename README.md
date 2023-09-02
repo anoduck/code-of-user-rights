@@ -1,7 +1,7 @@
 Code of Misconduct
 ==================
 
-The Code of Misconduct is a set of user rights, the developer and user acknowledge, grant, and bind themselves to.
+The Code of User Rights is a set of user rights, the developer and user acknowledge, grant, and bind themselves to.
 
 Preface
 -------
@@ -11,7 +11,7 @@ This document is still under development, it should in now way, shape or, form b
 Intro
 -----
 
-The Code of Misconduct is a response to a set of characteristics or traits that represent
+The Code of User Rights is a response to a set of characteristics or traits that represent
 contractual obligations/mandates found within certain "Code of Conduct" (i.e. COC) agreements.
 They are:
 * Extension of the COC to include common end users, rather than solely binding contributors
