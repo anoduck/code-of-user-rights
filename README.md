@@ -1,4 +1,4 @@
-Code of Misconduct
+Code of User Rights
 ==================
 
 The Code of User Rights is a set of user rights, the developer and user acknowledge, grant, and bind themselves to.
@@ -40,13 +40,13 @@ established.
 The Open Source technological movement was founded upon the reduction or demolision of barriers preventing
 accessibility of computational technology for the embetterment of computer science. It was the intent for the
 Code of Conduct to encourage and foster this free exchange of ideas and diversify thought, not stiffle it.
-Thus in order maintain our own liberties as diverse individuals, we must establish a code of misconduct, to
+Thus in order maintain our own liberties as diverse individuals, we must establish a code of user rights, to
 reinforce our own individuality and excercise freedom of faculties.
 
 Proposal
 --------
 
-Here lays a groundwork for formulation of the code of misconduct. It shall be recognized as a work
+Here lays a groundwork for formulation of the code of user rights. It shall be recognized as a work
 of progress:
 
 1. The freedom needed for an uninhibited and unrestrained exchange of ideas and concepts within the mind of the user.
