@@ -11,8 +11,8 @@ This document is still under development, it should in now way, shape or, form b
 Intro
 -----
 
-The Code of Misconduct is a response to a set of characteristics or traits that represent contractual obligations/mandates
-found within certain "Code of Conduct" (i.e. COC) agreements.
+The Code of Misconduct is a response to a set of characteristics or traits that represent
+contractual obligations/mandates found within certain "Code of Conduct" (i.e. COC) agreements.
 They are:
 * Extension of the COC to include common end users, rather than solely binding contributors
 * Inclusion of political idealology.
@@ -46,9 +46,13 @@ reinforce our own individuality and excercise freedom of faculties.
 Proposal
 --------
 
-Here lay the first proposal for a tentative outline for a code of misconduct. It shall be recognized as a work
-of progress until peace is found and agreement is made it sufficiently establishes:
+Here lays a groundwork for formulation of the code of misconduct. It shall be recognized as a work
+of progress:
+
 1. The freedom needed for an uninhibited and unrestrained exchange of ideas and concepts within the mind of the user.
 2. Enables the exchange of these ideas and concepts via the freedom of speech.
-3. Respects the diversity of individuals, while discouraging deviance.
+3. Respects the diversity of individuals while discouraging deviance, disrespect, violence, hate,
+   and ill treatment.
+4. Garuantees the right of the individual to possess and express an opinion without fear of backlash
+   or social shunning.
 
