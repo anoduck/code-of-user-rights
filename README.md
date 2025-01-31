@@ -11,15 +11,22 @@ This document is still under development, it should in now way, shape or, form b
 Intro
 -----
 
-The Code of User Rights is a response to a set of characteristics or traits that represent
-contractual obligations/mandates found within certain "Code of Conduct" (i.e. COC) agreements.
-They are:
+The Code of User Rights is a critical response to certain "Code of Conduct" (i.e. COC) agreements that
+possess certain traits that constrain, limit, or exclude developers.
+
+These traits are:
 * Extension of the COC to include common end users, rather than solely binding contributors
 * Inclusion of political idealology.
+* Agreements intended to stifle freedom of expression and/or limit free thinking.
 * Wording or phrasing considered to be politically exclusionary.
 * Threats of public shaming, doxing, ostrasizing, and/or other forms of harassment.
 * Obligations/Mandates that result in surrending or compromising an inalienable human right.
 * Attempts to supress freedom of expression, speech and discourse.
+
+Examples of such agreements:
+-----------------------------
+
+- https://github.com/nodesource/nsolid/blob/node-v22.x-nsolid-v5.x/CODE_OF_CONDUCT.md
 
 Preliminary History
 --------------------
