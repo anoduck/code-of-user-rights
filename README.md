@@ -1,3 +1,6 @@
+> [!NOTE]
+> __Work In Progress:__ I work on this from time to time, cleaning up grammar, rewording sentences, and adding content. This is a concept of a social contract I contemplate from time to time as I see more and more of politics influencing computer science and the community of developers as a whole. IMHO, if this continues it will result in stifling progression of the field.
+
 Code of User Rights
 ==================
 
@@ -6,7 +9,7 @@ The Code of User Rights is a set of user rights, the developer and user acknowle
 Preface
 -------
 
-This document is still under development, it should in now way, shape or, form be distributed in it's current state.
+This document is _still under development_, it should in now way, shape or, form be distributed in it's current state.
 
 Intro
 -----
@@ -16,17 +19,34 @@ possess certain traits that constrain, limit, or exclude developers.
 
 These traits are:
 * Extension of the COC to include common end users, rather than solely binding contributors
-* Inclusion of political idealology.
+* Inclusion of biased political idealology.
 * Agreements intended to stifle freedom of expression and/or limit free thinking.
 * Wording or phrasing considered to be politically exclusionary.
 * Threats of public shaming, doxing, ostrasizing, and/or other forms of harassment.
+* Attempts to mischaracterize inquiry and challenges to one's position as an act of violence.
 * Obligations/Mandates that result in surrending or compromising an inalienable human right.
 * Attempts to supress freedom of expression, speech and discourse.
 
-Examples of such agreements:
------------------------------
+Examples of Exclusivistic CofC Agreements:
+------------------------------------------
+
+### NodeSource
+
+Their CofC was the preliminary inspiration for the Code of User Rights.
 
 - https://github.com/nodesource/nsolid/blob/node-v22.x-nsolid-v5.x/CODE_OF_CONDUCT.md
+
+### Dev.to
+
+Comparatively to NodeSource, dev.to's CofC goes much much further.
+
+```text
+We pledge to prioritize marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
+         'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'
+         Reasonable communication of boundaries, such as 'leave me alone,' 'go away,' or 'I'm not discussing this with you.'
+         Someone's refusal to explain or debate social justice concepts
+         Criticisms of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+```
 
 Preliminary History
 --------------------
