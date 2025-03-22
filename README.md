@@ -14,7 +14,7 @@ This document is _still under development_, it should in now way, shape or, form
 Intro
 -----
 
-The Code of User Rights is a critical response to certain "Code of Conduct" (i.e. COC) agreements that
+The Statement of User Rights is a critical response to certain "Code of Conduct" (i.e. COC) agreements that
 possess certain traits that constrain, limit, or exclude developers.
 
 These traits are:
