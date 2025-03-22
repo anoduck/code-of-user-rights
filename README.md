@@ -1,8 +1,8 @@
 > [!NOTE]
-> __Work In Progress:__ I work on this from time to time, cleaning up grammar, rewording sentences, and adding content. This is a concept of a social contract I contemplate from time to time as I see more and more of politics influencing computer science and the community of developers as a whole. IMHO, if this continues it will result in stifling progression of the field.
+> __Work In Progress:__ I work on this from time to time, cleaning up grammar, rewording sentences, and adding content. This something I contemplate on from time to time, it is a proof of concept for a new type of social contract.
 
-Code of User Rights
-==================
+Statement of User Rights
+========================
 
 The Code of User Rights is a set of user rights, the developer and user acknowledge, grant, and bind themselves to.
 
